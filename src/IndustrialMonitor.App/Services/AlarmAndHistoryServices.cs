@@ -1,3 +1,4 @@
+using System.IO;
 using IndustrialMonitor.App.Infrastructure;
 using IndustrialMonitor.App.Models;
 

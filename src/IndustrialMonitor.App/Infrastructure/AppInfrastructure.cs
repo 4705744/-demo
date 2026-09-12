@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using System.Globalization;
+using System.IO;
 using System.Windows.Input;
 
 namespace IndustrialMonitor.App.Infrastructure;
